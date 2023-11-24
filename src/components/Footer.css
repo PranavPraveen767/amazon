@@ -1,0 +1,46 @@
+.footer-panel {
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.footer-panel2 {
+    background-color: #222f3d;
+    color: white;
+    height: 578px;
+    display: flex;
+    width: 950px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.footer-list {
+    height: 350px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    padding-left: 50px;
+    padding-right: 25px;
+    width:212px;
+}
+
+.parent-div {
+    height: 650px;
+    background-color: #222f3d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-list p{
+    font-size: 14px;
+}
+.foot-panel-3{
+    background-color: #222f3d;
+    color: white;
+    border-top: 0.5px solid white;
+}
